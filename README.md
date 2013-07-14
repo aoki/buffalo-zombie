@@ -3,6 +3,9 @@ buffalo-zombie
 
 よく途切れるBuffaloの無線機能を再接続するnodeスクリプト
 
+## 動作確認済み
+- WZR-HP-AG300H
+
 ## Setup
 ```
 git colone git@github.com:yoshiki-aoki/buffalo-zombie.git
