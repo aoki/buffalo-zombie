@@ -1,0 +1,26 @@
+{
+  "name": "BuffaloZombie",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "bz.js",
+  "dependencies": {
+    "zombie": "~1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yoshiki-aoki/buffalo-zombie.git"
+  },
+  "keywords": [
+    "node",
+    "buffalo",
+    "zombie",
+    "nas"
+  ],
+  "author": "ringo",
+  "license": "BSD",
+  "gitHead": "2e070bb06be4ab3ab29ba20d65c91899d9a1e295"
+}
