@@ -1,6 +1,8 @@
 buffalo-zombie
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ringohub/buffalo-zombie.svg)](https://greenkeeper.io/)
+
 よく途切れるBuffaloの無線機能を再接続するnodeスクリプト
 
 ## 動作確認済み
