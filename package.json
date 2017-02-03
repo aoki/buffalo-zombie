@@ -4,7 +4,7 @@
   "description": "ERROR: No README.md file found!",
   "main": "bz.js",
   "dependencies": {
-    "zombie": "~1.4.1"
+    "zombie": "~5.0.5"
   },
   "devDependencies": {},
   "scripts": {
